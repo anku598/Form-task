@@ -1,4 +1,11 @@
-.section-one{
-  background: lightskyblue;
-  padding: 1.3rem;
+body{
+  background: #eeeeee;
+  font-size: 1rem;
+  list-style: none;
+}
+
+header{
+  background: lightsalmon;
+  padding: 1.5rem;
+  
 }
