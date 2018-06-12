@@ -13,12 +13,12 @@ header{
 }
 .section-one{
   background: lightskyblue;
-  padding: 1.2rem;
+  padding: 1.4rem;
 }
 
 .part-2{
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: flex-end;
   background: lightcyan;
 }
