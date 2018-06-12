@@ -7,9 +7,18 @@ body{
 header{
   background: lightsalmon;
   padding: 1.5rem;
+  display: flex;
+  justify-content: space-between;
   
 }
 .section-one{
   background: lightskyblue;
   padding: 1.2rem;
+}
+
+.part-2{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: lightcyan;
 }
